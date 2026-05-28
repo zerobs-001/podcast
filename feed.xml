@@ -6,7 +6,7 @@
   <channel>
     <atom:link href="https://podcast.pbco.com.au/feed.xml" rel="self" type="application/rss+xml" />
     <title>Property Notes Podcast</title>
-    <link>https://www.pbco.com.au/podcast</link>
+    <link>https://www.pbco.com.au/property-notes-podcast</link>
     <description>Property Notes Podcast is for Australian property investors who want to think strategically about their portfolio rather than guess their way through.
 
 Every property decision you&#39;ll make comes down to three questions. Where are you now? Where do you want to be in 5, 10, 25 years? And how do you bridge that gap with the assets, financing, and timing you have available?
@@ -95,6 +95,7 @@ Episodes drop weekly. Free. No subscription gates. The newsletter at pbco.com.au
     
     <item>
       <title>The CGT reform that&#39;s actually a redistribution</title>
+      <link>https://www.pbco.com.au/property-notes-podcast</link>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <pubDate>Sat, 30 May 2026 06:00:00 +1000</pubDate>
