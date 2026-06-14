@@ -94,6 +94,38 @@ Episodes drop weekly. Free. No subscription gates. The newsletter at pbco.com.au
     </itunes:category>
     
     <item>
+      <title>The equity unlock decision</title>
+      <link>https://www.pbco.com.au/property-notes/issue-15-the-equity-unlock-decision</link>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Sat, 20 Jun 2026 06:00:00 +1000</pubDate>
+      <description><![CDATA[You own a property that has grown. On paper there is real equity sitting inside it. So you ask the bank to release some of it to buy the next one, and the answer is no. How does that happen when the equity is right there?
+
+This episode walks through the equity unlock decision: how to pull equity out of one property to fund the next, without selling and without breaking the structure you have already built. The gap most investors miss is the difference between paper equity and usable equity, and then the quieter constraint underneath it, which is whether the new debt actually services.
+
+We cover four gates a release has to pass before it is a good decision. Is the equity genuinely there once the lender applies its own valuation and the eighty percent line. Will it service, given Apra's buffer and your debt to income position. What is the money actually for. And which structure to use so the borrowing stays clean and deductible. We ground it in why serviceability became the binding constraint after Apra lifted its buffer in late 2021, and we follow one investor, Sam, as he funds a fourth purchase from the equity in his first.
+
+Read the full newsletter at https://www.pbco.com.au/property-notes/issue-15-the-equity-unlock-decision for the worked numbers and the decision diagram.
+
+Property Notes is the analytical work I do for myself, packaged in a way you can act on with your own accountant. Always speak to a qualified professional before acting on anything discussed.
+
+Subscribe + read the diagrams: https://www.pbco.com.au
+]]></description>
+      <itunes:summary>You own a property that has grown. On paper there is real equity sitting inside it. So you ask the bank to release some of it to buy the next one, and the answer is no. How does that happen when the equity is right there?
+
+This episode walks through the equity unlock decision: how to pull equity out of one property to fund the next, without selling and without breaking the structure you have already built. The gap most investors miss is the difference between paper equity and usable equity, and then the quieter constraint underneath it, which is whether the new debt actually services.
+
+We cover four gates a release has to pass before it is a good decision. Is the equity genuinely there once the lender applies its own valuation and the eighty percent line. Will it service, given Apra&#39;s buffer and your debt to income position. What is the money actually for. And which structure to use so the borrowing stays clean and deductible. We ground it in why serviceability became the binding constraint after Apra lifted its buffer in late 2021, and we follow one investor, Sam, as he funds a fourth purchase from the equity in his first.
+
+Read the full newsletter at https://www.pbco.com.au/property-notes/issue-15-the-equity-unlock-decision for the worked numbers and the decision diagram.</itunes:summary>
+      <itunes:author>Alex Zarate</itunes:author>
+      <itunes:duration>08:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://podcast.pbco.com.au/episodes/ISSUE-015.mp3" length="12078019" type="audio/mpeg" />
+      <guid isPermaLink="false">issue-015</guid>
+    </item>
+    
+    <item>
       <title>Why the bigger salary builds the smaller portfolio</title>
       <link>https://www.pbco.com.au/property-notes/issue-14-high-income-no-momentum</link>
       <itunes:episode>7</itunes:episode>
@@ -119,7 +151,7 @@ Then we run the numbers forward to retirement. We give the high earner every ben
 
 This is an educational discussion, not financial advice. Read the full newsletter at pbco.com.au for the year by year equity tables and the tax working.</itunes:summary>
       <itunes:author>Alex Zarate</itunes:author>
-      <itunes:duration><<MM:SS — run ffprobe or mutagen to get actual duration>></itunes:duration>
+      <itunes:duration>07:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://podcast.pbco.com.au/episodes/ISSUE-014.mp3" length="10577755" type="audio/mpeg" />
       <guid isPermaLink="false">issue-014</guid>
