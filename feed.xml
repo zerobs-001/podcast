@@ -94,6 +94,38 @@ Episodes drop weekly. Free. No subscription gates. The newsletter at pbco.com.au
     </itunes:category>
     
     <item>
+      <title>The analyst&#39;s lens</title>
+      <link>https://www.pbco.com.au/property-notes/issue-16-the-analysts-lens</link>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Sat, 27 Jun 2026 06:00:00 +1000</pubDate>
+      <description><![CDATA[Out in central west New South Wales there is a small market with the strongest price growth, some of the highest rent, the lowest price, and zero vacancy on the page. Through any single lens, it looks like the best buy you could make. So why would a disciplined analyst move it to the watch list, behind a quiet Brisbane suburb that never had the loudest number on anything?
+
+This episode is the method I use to read a residential market on the evidence, before I ever name a suburb. It is one layer of a three-tier read (macro regions, then markets and corridors, then the property itself), and today sits squarely in the middle tier: the past-and-present market read. Five lenses on the data, then a step almost nobody takes, sorting each market by what it is built to do, growth, income, or both, and only ever comparing within those groups. Then the part that changes everything, scoring each market twice, once for how it has performed and once for the risk sitting underneath that performance, and risk adjusting by letting risk scale the result rather than just docking a few points.
+
+We follow two markets the whole way through, watch them swap places once risk is in the picture, and surface the trade off most people never price in, that the highest rental income tends to sit in the weakest economies. We also stress test the whole thing, to show the conclusions come from the data and not from my thumb on the scale. This is the foundation for a new series, Suburb Notes, where I run one real market through this process in the open.
+
+Read the full newsletter at https://www.pbco.com.au/property-notes/issue-16-the-analysts-lens for the tables, the diagrams, and the worked detail.
+
+Property Notes is the analytical work I do for myself, packaged in a way you can act on with your own accountant. Always speak to a qualified professional before acting on anything discussed.
+
+Subscribe + read the diagrams: https://www.pbco.com.au
+]]></description>
+      <itunes:summary>Out in central west New South Wales there is a small market with the strongest price growth, some of the highest rent, the lowest price, and zero vacancy on the page. Through any single lens, it looks like the best buy you could make. So why would a disciplined analyst move it to the watch list, behind a quiet Brisbane suburb that never had the loudest number on anything?
+
+This episode is the method I use to read a residential market on the evidence, before I ever name a suburb. It is one layer of a three-tier read (macro regions, then markets and corridors, then the property itself), and today sits squarely in the middle tier: the past-and-present market read. Five lenses on the data, then a step almost nobody takes, sorting each market by what it is built to do, growth, income, or both, and only ever comparing within those groups. Then the part that changes everything, scoring each market twice, once for how it has performed and once for the risk sitting underneath that performance, and risk adjusting by letting risk scale the result rather than just docking a few points.
+
+We follow two markets the whole way through, watch them swap places once risk is in the picture, and surface the trade off most people never price in, that the highest rental income tends to sit in the weakest economies. We also stress test the whole thing, to show the conclusions come from the data and not from my thumb on the scale. This is the foundation for a new series, Suburb Notes, where I run one real market through this process in the open.
+
+Read the full newsletter at https://www.pbco.com.au/property-notes/issue-16-the-analysts-lens for the tables, the diagrams, and the worked detail.</itunes:summary>
+      <itunes:author>Alex Zarate</itunes:author>
+      <itunes:duration><<MM:SS — run ffprobe or mutagen to get actual duration>></itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://podcast.pbco.com.au/episodes/ISSUE-016.mp3" length="10314022" type="audio/mpeg" />
+      <guid isPermaLink="false">issue-016</guid>
+    </item>
+    
+    <item>
       <title>The equity unlock decision</title>
       <link>https://www.pbco.com.au/property-notes/issue-15-the-equity-unlock-decision</link>
       <itunes:episode>8</itunes:episode>
@@ -119,7 +151,7 @@ We cover four gates a release has to pass before it is a good decision. Is the e
 
 Read the full newsletter at https://www.pbco.com.au/property-notes/issue-15-the-equity-unlock-decision for the worked numbers and the decision diagram.</itunes:summary>
       <itunes:author>Alex Zarate</itunes:author>
-      <itunes:duration>08:23</itunes:duration>
+      <itunes:duration><<MM:SS — run ffprobe or mutagen to get actual duration>></itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://podcast.pbco.com.au/episodes/ISSUE-015.mp3" length="12078019" type="audio/mpeg" />
       <guid isPermaLink="false">issue-015</guid>
